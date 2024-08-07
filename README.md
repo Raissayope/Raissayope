@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raissa and I'm a Girl, from Brasil</h2>
+<h2 align="left">Hi 🦊! My name is Raissa and I'm a Girl, from Brasil</h2>
 
 ###
 
